@@ -2,7 +2,7 @@
   "basics": {
     "name": "Sidy BARRY",
     "label": "Ingénieur Logiciels",
-    "image": "me_avatar.jpg",
+    "image": "me_avatar1.jpg",
     "email": "bsidy01@gmail.com",
     "phone": "+33 651-896-602",
     "url": "https://johndoe.dev",
@@ -19,7 +19,7 @@
       {
         "network": "LinkedIn",
         "username": "john-doe",
-        "url": "https://linkedin.com/in/john-doe"
+        "url": "https://linkedin.com/in/sidy-barry/"
       },
       {
         "network": "X",
@@ -38,26 +38,38 @@
       "name": "Luminess",
       "position": "Ingénieur logiciels",
       "location_type": "On site",
-      "location": "Auckland, New Zealand",
+      "location": "Cesson-Sévigné (Rennes), France",
       "url": "https://luminess.eu",
-      "startDate": "2022-02-20",
+      "startDate": "2022-01-20",
       "endDate": null,
-      "summary": "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs.",
+      "summary": "Développement et maintenance d'applications. Collaborer avec l'équipe pour mettre en œuvre de nouvelles fonctionnalités et corriger les bugs.",
       "highlights": [
         "Improved website performance by optimizing code"
       ],
       "responsibilities": [
-        "Collaborated with senior developers to design and implement web applications using modern JavaScript frameworks.",
-        "Assisted in debugging and optimizing front-end code to ensure smooth user experiences.",
-        "Participated in code reviews and contributed to improving coding standards within the team."
+        "Développement des fonctionnalités : Concevoir et implémenter des fonctionnalités en utilisant Symfony et PHP",
+        "Gestion des bases de données : Modéliser, interagir avec les bases de données (Doctrine) et optimiser les requêtes SQL.",
+        "Qualité du code : Écrire un code propre, tester, et respecter les standards (PSR).",
+        "Maintenance : Corriger les bugs, améliorer les performances et assurer la compatibilité.",
+        "Documentation : Rédiger la documentation technique pour faciliter la maintenance.",
+        "Collaboration : Travailler avec l’équipe QA, les développeurs front-end, et les chefs de projet.",
+        "Déploiement : Gérer les déploiements sur les environnements (dev, test, prod).",
+        "Veille technologique : Suivre les évolutions de Symfony et PHP pour appliquer les meilleures pratiques."
       ],
       "achievements": [
-        "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs."
+        "Développer et maintenir des applications Web dévélopées en Symfony. Collaborer avec l'équipe pour implémenter de nouvelles fonctionnalités et corriger les bugs."
       ],
       "skills": [
-        "React",
-        "Tailwind",
-        "GitHub"
+        "PHP",
+        "MariaDb",
+        "HTML",
+        "CSS",
+        "Bootstrap",
+        "API REST",
+        "Sql",
+        "Git",
+        "GitHub / GitLab",
+        "Matomo"
       ]
     },
     {
