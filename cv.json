@@ -6,7 +6,7 @@
     "email": "bsidy01@gmail.com",
     "phone": "+33 651-896-602",
     "url": "https://johndoe.dev",
-    "summary": "Junior Full Stack Developer with a passion for building web applications. Currently seeking opportunities to further develop my skills in a professional setting.",
+    "summary": "Passionné par les nouvelles technologies et ayant plus de 8 ans\nd'experiences en tant que développeur et superviseur d'équipe, j'ai\ntoujours privilégié la rigueur, le sens du travail, l'organisation et le\ntravail collaboratif.",
     "theme": "green",
     "location": {
       "address": "",
@@ -57,10 +57,59 @@
         "Veille technologique : Suivre les évolutions de Symfony et PHP pour appliquer les meilleures pratiques."
       ],
       "achievements": [
-        "Développer et maintenir des applications Web dévélopées en Symfony. Collaborer avec l'équipe pour implémenter de nouvelles fonctionnalités et corriger les bugs."
+        [
+          "2024-A nos jours : Luminess -DARES\n",
+          "- Mise en place des évolutions",
+          "- Correction des bugs",
+          " - Optimisation des performances",
+          "  ",
+          "- TMA",
+          "  ",
+          "Technologies : Symfony 6.2 , PHP 8.2 , MariaDb, BootStrap, Ajax, JavaScript, Matomo\n"
+        ],
+        [
+          "2022-A nos jours : Luminess -ADNOV\n",
+          "- Mise en place des évolutions",
+          "- Correction des bugs",
+          "  ",
+          "- TMA",
+          "  ",
+          "Technologies : Symfony 5.4 , PHP 8.1 , MariaDb, BootStrap, Ajax, JavaScript\n"
+        ],
+        [
+          "2022-A 2023 : Luminess -Signale",
+          " - Mise en place des évolutions",
+          " - Optimisation des performances",
+          "  ",
+          "  ",
+          " - Correction des bug",
+          "- TMA",
+          "  ",
+          "  ",
+          "Technologies : Python , Framework Pyramide, MariaDb, Redis, JavaScript"
+        ] ,
+        [
+          "2022-A nos jours : Luminess -OMPI/IPCWLMS\r\r",
+          "- Mise en place des évolutions",
+          "- Correction des bugs",
+          "  ",
+          "- TMA",
+          "  ",
+          "Technologies : Symfony 2.8 , PHP 5.6 , MariaDb, BootStrap, java script\n"
+        ],
+        [
+          "2022-A 2024 : Luminess - ASAC-FAPES\r\r",
+          "- Mise en place des évolutions",
+          "- Correction des bugs",
+          "  ",
+          "- TMA",
+          "  ",
+          "Technologies : Symfony 3.5 , PHP 7 , MariaDb, Ajax, BootStrap\n"
+        ]
       ],
       "skills": [
         "PHP",
+        "AJAX",
         "MariaDb",
         "HTML",
         "CSS",
@@ -69,18 +118,24 @@
         "Sql",
         "Git",
         "GitHub / GitLab",
-        "Matomo"
+        "Matomo" ,
+        "MariaDb",
+        "MySQL",
+        "JavaScript",
+        "Docker",
+        "Vagrant" ,
+        "Python"
       ]
     },
     {
-      "name": "Innovative Solutions",
-      "position": "Junior Software Developer",
-      "location_type": "Hybrid",
-      "location": "Wellington, New Zealand",
-      "url": "https://innovativesolutions.com",
-      "startDate": "2022-06-01",
-      "endDate": "2023-06-01",
-      "summary": "Assisting in the development and maintenance of software applications using Python and Django. Collaborating with cross-functional teams to ensure quality and timely delivery of software solutions.",
+      "name": "Jouve",
+      "position": "Développeur FullStack",
+      "location_type": "Télétravail partiel",
+      "location": "Cesson-Sévigné (Rennes), France",
+      "url": "https://jouve.com",
+      "startDate": "2021-10-01",
+      "endDate": "2021-12-31",
+      "summary": "Mise en place d'un prototype basé sur une sous-partie fonctionnelle\nd'un applicatif existant mais obsolète techniquement.                                       Technologies : Backend sous Symfony PHP pour l'API REST et\nDoctrine pour les interactions avec la base de données MariaDB. Le\nFrontend est fait avec Angular 12.",
       "highlights": [
         "Contributed to a major project that streamlined internal workflows, improving efficiency by 30%"
       ],
@@ -93,19 +148,26 @@
         "Successfully implemented a feature that enhanced user authentication, improving security measures."
       ],
       "skills": [
-        "Python",
-        "Django",
-        "SQL",
-        "Git"
+        "PHP",
+        "Symfony",
+        "MariaDB",
+        "Git",
+        "Git",
+        "Docker",
+        "HTML",
+        "CSS",
+        "BootStrap",
+        "Ajax"
       ]
     },
     {
-      "name": "Web Agency",
-      "position": "Intern Web Developer",
-      "location_type": "Remote",
-      "location": "Sydney, Australia",
-      "startDate": "2022-06-01",
-      "endDate": "2022-12-01",
+      "name": "Syfadis",
+      "position": "Support Technnique",
+      "location_type": "Télétravail partiel",
+      "location": "Rennes, France",
+      "url": "https://syfadis.fr/",
+      "startDate": "2020-05-01",
+      "endDate": "2020-10-21",
       "summary": "Assisted in developing client websites and applications. Gained hands-on experience with front-end and back-end technologies.",
       "highlights": [
         "Completed several client projects successfully"
@@ -118,11 +180,11 @@
   ],
   "volunteer": [
     {
-      "organization": "Local Coding Club",
-      "position": "Volunteer",
-      "url": "https://codingclub.com/",
-      "startDate": "2021-01-01",
-      "endDate": "2022-01-01",
+      "organization": "Syfadis",
+      "position": "Support Technnique",
+      "url": "https://syfadis.fr/",
+      "startDate": "2020-03-30",
+      "endDate": "2020-10-21",
       "summary": "Helped organize coding workshops and mentored new members.",
       "highlights": [
         "Awarded 'Volunteer of the Month'"
