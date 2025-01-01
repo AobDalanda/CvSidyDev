@@ -218,6 +218,37 @@
         "Chrome DevTools" ,
         "TeamViewer"
       ]
+    },
+    {
+      "name": "Ubiflow",
+      "position": "Support Technique",
+      "location_type": "Sur site",
+      "location": "Betton, France",
+      "url": "https://www.ubiflow.net/",
+      "startDate": "2018-01-01",
+      "endDate": "2019-01-01",
+      "summary": "Responsable de la supervision et de l'optimisation des processus logistiques automatisés. Cela inclut le suivi des flux de marchandises dans l'entrepôt, le diagnostic des systèmes automatisés, et la résolution de problèmes.",
+      "responsibilities": [
+        "Prendre en charge les incidents critiques et complexes non résolus.",
+        "Effectuer des diagnostics approfondis pour identifier les causes sous-jacentes des problèmes.",
+        "Collaborer avec les équipes de développement pour corriger les erreurs et implémenter des solutions durables." ,
+        "Participer aux tests et aux validations des correctifs avant leur déploiement."  ,
+        "Conseiller les autres niveaux de support et les équipes techniques sur les meilleures pratiques et les solutions techniques."
+      ],
+      "achievements": [
+        "Identification, diagnostic, et résolution des dysfonctionnements techniques.",
+        "Suivi et documentation des tickets d'incidents jusqu'à leur clôture.",
+        "Assistance à distance ou sur site pour les problèmes liés au matériel, aux logiciels, ou aux systèmes.",
+        "Formation et accompagnement des utilisateurs pour l'utilisation des outils ou des logiciels."
+      ],
+      "skills": [
+        "SQL Developer",
+        "MariaDB",
+        "DBeaver",
+        "phpMyAdmin",
+        "Chrome DevTools" ,
+        "TeamViewer"
+      ]
     }
   ],
 
