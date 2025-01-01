@@ -295,8 +295,8 @@
       "location_type": "Sur site",
       "location": "Conakry, Guinée",
       "url": " ",
-      "startDate": "2010-03-01",
-      "endDate": "2008-02-25",
+      "startDate": "2010-08-02",
+      "endDate": "2017-03-31",
       "summary": "Développer, coordonner et superviser les services à valeur ajoutée (VAS) pour assurer leur croissance et leur rentabilité tout en optimisant les ressources techniques disponibles.",
       "responsibilities": [
         "Elaboration de la faisabilité des différents VAS",
@@ -321,7 +321,41 @@
         "Android Studio",
         "Xml",
         "SQL Developer",
-        "MySQL"
+        "MySQL",
+        "Excel"
+      ]
+    },
+    {
+      "name": "Intercel+ (Telecom)",
+      "position": "Développeur ",
+      "location_type": "Sur site",
+      "location": "Conakry, Guinée",
+      "url": " ",
+      "startDate": "2008-09-30",
+      "endDate": "2010-07-30",
+      "summary": "Développer, coordonner et superviser les services à valeur ajoutée (VAS) pour assurer leur croissance et leur rentabilité tout en optimisant les ressources techniques disponibles.",
+      "responsibilities": [
+        "Contrôle et maintenance des VAS (Pl/SQL)",
+        "Développement d’application web (ACCOUNT MANAGEMENT)",
+        "Développement d’outil de monitoring (alertes, Rapport ...)"
+      ],
+      "achievements": [
+        "Dévéloppement de l'application web ACCOUNT MANAGEMENT",
+        "Migration de l'application ACCOUNT MANAGEMENT de VB6 en application web",
+        "Identifier et corriger les bugs dans les logiciels et applications.",
+        "Extraction des données (stats).",
+        "Mise en place de procedure Pl/SQL."
+
+      ],
+      "skills": [
+        "PHP",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Notepad++",
+        "SQL Developer",
+        "MySQL",
+        "Pl/SQL"
       ]
     }
   ] ,
