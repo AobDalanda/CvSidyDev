@@ -36,7 +36,7 @@
   "work": [
     {
       "name": "Luminess",
-      "position": "Ingénieur logiciels",
+      "position": "Ingénieur logiciels CDI",
       "location_type": "Télétravail partiel",
       "location": "Cesson-Sévigné (Rennes), France",
       "url": "https://luminess.eu",
@@ -160,7 +160,7 @@
     },
     {
       "name": "Syfadis",
-      "position": "Support Technnique ",
+      "position": "Support Technnique CDI ",
       "location_type": "Télétravail partiel",
       "location": "Rennes, France",
       "url": "https://syfadis.fr/",
@@ -189,7 +189,7 @@
     },
     {
       "name": "Witron",
-      "position": "Superviseur Flux",
+      "position": "Superviseur Flux CDI",
       "location_type": "Sur site",
       "location": "Erbrée, France",
       "url": "https://witron.de/fr/",
@@ -221,33 +221,72 @@
     },
     {
       "name": "Ubiflow",
-      "position": "Support Technique",
+      "position": "Support Technique CDD",
       "location_type": "Sur site",
       "location": "Betton, France",
       "url": "https://www.ubiflow.net/",
       "startDate": "2018-01-01",
       "endDate": "2019-01-01",
-      "summary": "Responsable de la supervision et de l'optimisation des processus logistiques automatisés. Cela inclut le suivi des flux de marchandises dans l'entrepôt, le diagnostic des systèmes automatisés, et la résolution de problèmes.",
+      "summary": "Fournir un support aux utilisateurs des solutions Ubiflow, en les aidant à résoudre les problèmes techniques liés à la multidiffusion d'annonces, à la gestion des contacts et à l'utilisation des plateformes de réseaux sociaux",
       "responsibilities": [
-        "Prendre en charge les incidents critiques et complexes non résolus.",
-        "Effectuer des diagnostics approfondis pour identifier les causes sous-jacentes des problèmes.",
-        "Collaborer avec les équipes de développement pour corriger les erreurs et implémenter des solutions durables." ,
-        "Participer aux tests et aux validations des correctifs avant leur déploiement."  ,
-        "Conseiller les autres niveaux de support et les équipes techniques sur les meilleures pratiques et les solutions techniques."
+        "Diagnostic et résolution des incidents.",
+        "Formation et accompagnement",
+        "Collaboration interne."
       ],
       "achievements": [
-        "Identification, diagnostic, et résolution des dysfonctionnements techniques.",
-        "Suivi et documentation des tickets d'incidents jusqu'à leur clôture.",
-        "Assistance à distance ou sur site pour les problèmes liés au matériel, aux logiciels, ou aux systèmes.",
-        "Formation et accompagnement des utilisateurs pour l'utilisation des outils ou des logiciels."
+        "Analyse et résolution rapide des anomalies liées aux flux de données entre les plateformes partenaires et les sites clients.",
+        "Support de niveau 2 et 3 pour escalader et résoudre les problèmes complexes nécessitant une expertise approfondie.",
+        "Surveillance et maintenance des flux XML, JSON ou API utilisés pour synchroniser les données entre les plateformes.",
+        "Amélioration des performances des flux pour réduire les délais de mise à jour des annonces (par exemple, diminution des délais de traitement de X %).",
+        "Identification des problèmes récurrents chez les clients et proposition de solutions préventives.",
+        "Mise en place de guides d’utilisation ou de formations pour les clients et les partenaires.",
+        "Augmentation du taux de satisfaction client grâce à un service réactif et des solutions durables."
       ],
       "skills": [
+        "VSCode",
         "SQL Developer",
-        "MariaDB",
+        "Postman",
         "DBeaver",
-        "phpMyAdmin",
         "Chrome DevTools" ,
-        "TeamViewer"
+        "TeamViewer",
+        "SharePoint"
+      ]
+    },
+    {
+      "name": "ETI Guinée",
+      "position": "Ingénieur Etude et Développement CDI",
+      "location_type": "Sur site",
+      "location": "Conakry, Guinée",
+      "url": "https://eti.net.gn/",
+      "startDate": "2017-03-06",
+      "endDate": "2017-12-29",
+      "summary": "Participation aux études de conception et de développement d’applications (Android) de production de documents biométriques sécurisées (Enrôlement, Identification, Production de document).",
+      "responsibilities": [
+        "Participer à l'analyse des besoins fonctionnels et techniques.",
+        "Collaborer avec les équipes métiers pour l'élaboration de spécifications techniques.",
+        "Rédiger des documents techniques et des guides utilisateur.",
+        "Mettre en place et maintenir une base de données documentée sur les systèmes et applications développés.",
+        "Produire des rapports techniques et des bilans d'activité.",
+        "Participer à des réunions pour suivre l’avancement des projets et des développements.",
+        "Collaboration interne."
+      ],
+      "achievements": [
+        "Analyse et résolution rapide des anomalies liées aux flux de données entre les plateformes partenaires et les sites clients.",
+        "Support de niveau 2 et 3 pour escalader et résoudre les problèmes complexes nécessitant une expertise approfondie.",
+        "Surveillance et maintenance des flux XML, JSON ou API utilisés pour synchroniser les données entre les plateformes.",
+        "Amélioration des performances des flux pour réduire les délais de mise à jour des annonces (par exemple, diminution des délais de traitement de X %).",
+        "Identification des problèmes récurrents chez les clients et proposition de solutions préventives.",
+        "Mise en place de guides d’utilisation ou de formations pour les clients et les partenaires.",
+        "Augmentation du taux de satisfaction client grâce à un service réactif et des solutions durables."
+      ],
+      "skills": [
+        "VSCode",
+        "SQL Developer",
+        "Postman",
+        "DBeaver",
+        "Chrome DevTools" ,
+        "TeamViewer",
+        "SharePoint"
       ]
     }
   ],
@@ -255,7 +294,7 @@
   "volunteer": [
     {
       "organization": "Syfadis",
-      "position": "Support Technnique",
+      "position": "Support Technnique CDI",
       "url": "https://syfadis.fr/",
       "startDate": "2020-03-30",
       "endDate": "2020-10-21",
