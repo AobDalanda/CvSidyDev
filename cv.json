@@ -160,7 +160,7 @@
     },
     {
       "name": "Syfadis",
-      "position": "Support Technnique niveau 3",
+      "position": "Support Technnique ",
       "location_type": "Télétravail partiel",
       "location": "Rennes, France",
       "url": "https://syfadis.fr/",
@@ -183,6 +183,7 @@
         "MariaDB",
         "DBeaver",
         "phpMyAdmin",
+        "TeamViewer",
         "Chrome DevTools"
       ]
     },
@@ -194,9 +195,9 @@
       "url": "https://witron.de/fr/",
       "startDate": "2019-07-01",
       "endDate": "2020-10-21",
-      "summary": "Garantir la stabilité et l'efficacité des applications en résolvant les incidents, en optimisant les performances et en formant les utilisateurs.",
+      "summary": "Responsable de la supervision et de l'optimisation des processus logistiques automatisés. Cela inclut le suivi des flux de marchandises dans l'entrepôt, le diagnostic des systèmes automatisés, et la résolution de problèmes.",
       "responsibilities": [
-        "Prendre en charge les incidents critiques et complexes non résolus par les niveaux 1 et 2.",
+        "Prendre en charge les incidents critiques et complexes non résolus.",
         "Effectuer des diagnostics approfondis pour identifier les causes sous-jacentes des problèmes.",
         "Collaborer avec les équipes de développement pour corriger les erreurs et implémenter des solutions durables." ,
         "Participer aux tests et aux validations des correctifs avant leur déploiement."  ,
@@ -214,7 +215,8 @@
         "MariaDB",
         "DBeaver",
         "phpMyAdmin",
-        "Chrome DevTools"
+        "Chrome DevTools" ,
+        "TeamViewer"
       ]
     }
   ],
