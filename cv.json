@@ -271,26 +271,62 @@
         "Collaboration interne."
       ],
       "achievements": [
-        "Analyse et résolution rapide des anomalies liées aux flux de données entre les plateformes partenaires et les sites clients.",
-        "Support de niveau 2 et 3 pour escalader et résoudre les problèmes complexes nécessitant une expertise approfondie.",
-        "Surveillance et maintenance des flux XML, JSON ou API utilisés pour synchroniser les données entre les plateformes.",
-        "Amélioration des performances des flux pour réduire les délais de mise à jour des annonces (par exemple, diminution des délais de traitement de X %).",
-        "Identification des problèmes récurrents chez les clients et proposition de solutions préventives.",
-        "Mise en place de guides d’utilisation ou de formations pour les clients et les partenaires.",
-        "Augmentation du taux de satisfaction client grâce à un service réactif et des solutions durables."
+        "Développement d’applications Android robustes et performantes pour la production de documents biométriques sécurisés.",
+        "Applications conformes aux normes de sécurité biométrique et adaptées aux besoins de production d’identités sécurisées (enrôlement, identification, production de documents).",
+        "Applications respectant les normes biométriques et les spécifications des technologies d’identification (empreintes digitales)",
+        "Assurer la conformité avec les standards internationaux en matière de documents biométriques.",
+        "Optimisation des processus d’enrôlement, d’identification et de production de documents biométriques.",
+        "Applications intégrées avec des bases de données sécurisées et des systèmes de gestion d’identité.",
+        "Participation à la mise en œuvre de mécanismes de vérification pour garantir la qualité et la performance de l'application.",
+        "Documentation complète et claire des spécifications techniques, des guides utilisateurs et des procédures de déploiement."
       ],
       "skills": [
-        "VSCode",
+        "Android Studio",
+        "Java",
+        "Xml",
         "SQL Developer",
-        "Postman",
-        "DBeaver",
-        "Chrome DevTools" ,
-        "TeamViewer",
-        "SharePoint"
+        "API Rest",
+        "MySQL"
+      ]
+    },
+    {
+      "name": "Intercel+ (Telecom)",
+      "position": "Chef service VAS CDI",
+      "location_type": "Sur site",
+      "location": "Conakry, Guinée",
+      "url": " ",
+      "startDate": "2010-03-01",
+      "endDate": "2008-02-25",
+      "summary": "Développer, coordonner et superviser les services à valeur ajoutée (VAS) pour assurer leur croissance et leur rentabilité.Identifier les opportunités de marché, gérer les partenariats et garantir la satisfaction des utilisateurs tout en optimisant les ressources disponibles.",
+      "responsibilities": [
+        "Elaboration de la faisabilité des différents VAS",
+        "Développement, suivi et maintenance des VAS",
+        "Automatisation des tâches récurrentes.",
+        "Développement d’application Android pour l’enregistrement (identification) des abonnés.",
+        "Développement d’application web pour la gestion des abonnés prépayés (comptes, plaintes, stats ...)"
+      ],
+      "achievements": [
+        "Développement d’applications Android robustes et performantes pour la production de documents biométriques sécurisés.",
+        "Applications conformes aux normes de sécurité biométrique et adaptées aux besoins de production d’identités sécurisées (enrôlement, identification, production de documents).",
+        "Applications respectant les normes biométriques et les spécifications des technologies d’identification (empreintes digitales)",
+        "Assurer la conformité avec les standards internationaux en matière de documents biométriques.",
+        "Optimisation des processus d’enrôlement, d’identification et de production de documents biométriques.",
+        "Applications intégrées avec des bases de données sécurisées et des systèmes de gestion d’identité.",
+        "Participation à la mise en œuvre de mécanismes de vérification pour garantir la qualité et la performance de l'application.",
+        "Documentation complète et claire des spécifications techniques, des guides utilisateurs et des procédures de déploiement."
+      ],
+      "skills": [
+        "PHP",
+        "Java",
+        "VB6",
+        "VSCode",
+        "Android Studio",
+        "Xml",
+        "SQL Developer",
+        "MySQL"
       ]
     }
-  ],
-
+  ] ,
   "volunteer": [
     {
       "organization": "Syfadis",
