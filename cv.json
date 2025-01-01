@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Sidy BARRY",
-    "label": "Ingénieur Logiciels",
+    "label": "Ingénieur Logiciels BackEnd PHP/Symfony",
     "image": "me_avatar1.jpg",
     "email": "bsidy01@gmail.com",
     "phone": "+33 651-896-602",
     "url": "https://johndoe.dev",
-    "summary": "Passionné par les nouvelles technologies et ayant plus de 8 ans\nd'experiences en tant que développeur et superviseur d'équipe, j'ai\ntoujours privilégié la rigueur, le sens du travail, l'organisation et le\ntravail collaboratif.",
+    "summary": "Passionné par les nouvelles technologies et fort de plusieurs années d'expérience en tant que développeur et superviseur d'équipe, je privilégie la rigueur, l'organisation, et le travail collaboratif. Mes compétences en conception et maintenance logicielle, ainsi que ma maîtrise des concepts modernes, me permettent de réaliser des projets robustes et innovants.",
     "theme": "green",
     "location": {
       "address": "",
@@ -37,7 +37,7 @@
     {
       "name": "Luminess",
       "position": "Ingénieur logiciels",
-      "location_type": "On site",
+      "location_type": "Télétravail partiel",
       "location": "Cesson-Sévigné (Rennes), France",
       "url": "https://luminess.eu",
       "startDate": "2022-01-20",
@@ -136,23 +136,21 @@
       "startDate": "2021-10-01",
       "endDate": "2021-12-31",
       "summary": "Mise en place d'un prototype basé sur une sous-partie fonctionnelle\nd'un applicatif existant mais obsolète techniquement.                                       Technologies : Backend sous Symfony PHP pour l'API REST et\nDoctrine pour les interactions avec la base de données MariaDB. Le\nFrontend est fait avec Angular 12.",
-      "highlights": [
-        "Contributed to a major project that streamlined internal workflows, improving efficiency by 30%"
-      ],
       "responsibilities": [
-        "Developed and maintained backend services using Python and Django.",
-        "Worked closely with front-end developers to integrate user-facing elements with server-side logic.",
-        "Participated in daily stand-ups and bi-weekly sprint planning meetings to ensure alignment with project goals."
+        "Développement d'une API REST avec Symfony PHP et intégration Frontend sous Angular 12.",
+        "Optimisation des performances des requêtes grâce à Doctrine et MariaDB.",
+        "Participation aux réunions quotidiennes et aux réunions bihebdomadaires de planification des sprints afin de garantir l'alignement sur les objectifs du projet."
       ],
       "achievements": [
-        "Successfully implemented a feature that enhanced user authentication, improving security measures."
+        "Mise en œuvre réussie d'un prototype avec une fonction améliorant l'authentification des utilisateurs, ce qui a permis de renforcer les mesures de sécurité."
       ],
       "skills": [
         "PHP",
         "Symfony",
         "MariaDB",
+        "API REST",
         "Git",
-        "Git",
+        "JWT",
         "Docker",
         "HTML",
         "CSS",
@@ -162,22 +160,65 @@
     },
     {
       "name": "Syfadis",
-      "position": "Support Technnique",
+      "position": "Support Technnique niveau 3",
       "location_type": "Télétravail partiel",
       "location": "Rennes, France",
       "url": "https://syfadis.fr/",
       "startDate": "2020-05-01",
       "endDate": "2020-10-21",
-      "summary": "Assisted in developing client websites and applications. Gained hands-on experience with front-end and back-end technologies.",
-      "highlights": [
-        "Completed several client projects successfully"
+      "summary": "Garantir la stabilité et l'efficacité des applications en résolvant les incidents, en optimisant les performances et en formant les utilisateurs.",
+      "responsibilities": [
+        "Prendre en charge les incidents critiques et complexes non résolus par les niveaux 1 et 2.",
+        "Effectuer des diagnostics approfondis pour identifier les causes sous-jacentes des problèmes.",
+        "Collaborer avec les équipes de développement pour corriger les erreurs et implémenter des solutions durables." ,
+        "Participer aux tests et aux validations des correctifs avant leur déploiement."  ,
+        "Conseiller les autres niveaux de support et les équipes techniques sur les meilleures pratiques et les solutions techniques."
+      ],
+      "achievements": [
+        "Mise en œuvre réussie d'un prototype avec une fonction améliorant l'authentification des utilisateurs, ce qui a permis de renforcer les mesures de sécurité."
       ],
       "skills": [
-        "HTML",
-        "CSS"
+        "Visual Studio code",
+        "SQL Developer",
+        "MariaDB",
+        "DBeaver",
+        "phpMyAdmin",
+        "Chrome DevTools"
+      ]
+    },
+    {
+      "name": "Witron",
+      "position": "Superviseur Flux",
+      "location_type": "Sur site",
+      "location": "Erbrée, France",
+      "url": "https://witron.de/fr/",
+      "startDate": "2019-07-01",
+      "endDate": "2020-10-21",
+      "summary": "Garantir la stabilité et l'efficacité des applications en résolvant les incidents, en optimisant les performances et en formant les utilisateurs.",
+      "responsibilities": [
+        "Prendre en charge les incidents critiques et complexes non résolus par les niveaux 1 et 2.",
+        "Effectuer des diagnostics approfondis pour identifier les causes sous-jacentes des problèmes.",
+        "Collaborer avec les équipes de développement pour corriger les erreurs et implémenter des solutions durables." ,
+        "Participer aux tests et aux validations des correctifs avant leur déploiement."  ,
+        "Conseiller les autres niveaux de support et les équipes techniques sur les meilleures pratiques et les solutions techniques."
+      ],
+      "achievements": [
+        "Identification, diagnostic, et résolution des dysfonctionnements techniques.",
+        "Suivi et documentation des tickets d'incidents jusqu'à leur clôture.",
+        "Assistance à distance ou sur site pour les problèmes liés au matériel, aux logiciels, ou aux systèmes.",
+        "Formation et accompagnement des utilisateurs pour l'utilisation des outils ou des logiciels."
+      ],
+      "skills": [
+        "Visual Studio code",
+        "SQL Developer",
+        "MariaDB",
+        "DBeaver",
+        "phpMyAdmin",
+        "Chrome DevTools"
       ]
     }
   ],
+
   "volunteer": [
     {
       "organization": "Syfadis",
