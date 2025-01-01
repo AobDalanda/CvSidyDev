@@ -448,6 +448,14 @@
       ]
     },
     {
+      "name": "PHP",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Backend"
+      ]
+    },
+    {
       "name": "CSS",
       "level": "Intermediate",
       "keywords": [
@@ -524,36 +532,15 @@
         "Source Code",
         "Git"
       ]
-    },
-    {
-      "name": "Next.js",
-      "level": "Beginner",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "React Framework",
-        "SSR",
-        "Static Generation"
-      ]
-    },
-    {
-      "name": "React",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
-      ]
     }
   ],
   "languages": [
     {
-      "language": "English",
+      "language": "Français",
       "fluency": "Native speaker"
     },
     {
-      "language": "Spanish",
+      "language": "English",
       "fluency": "Intermediate"
     }
   ],
@@ -580,39 +567,8 @@
       "highlights": [
         "Construit avec React et Tailwind CSS"
       ],
-      "url": "https://johndoe.dev",
+      "url": "http://aldahim.com",
       "github": "https://github.com/AobDalanda/"
-    },
-    {
-      "name": "Weather App",
-      "isActive": true,
-      "description": "A web application that provides weather information for any location.",
-      "highlights": [
-        "Built with JavaScript and OpenWeatherMap API",
-        "Responsive design"
-      ],
-      "url": "https://weatherapp.com"
-    },
-    {
-      "name": "Task Manager",
-      "isActive": true,
-      "description": "A simple task management app to keep track of daily tasks.",
-      "highlights": [
-        "Built with Node.js and MongoDB",
-        "User authentication and CRUD operations"
-      ],
-      "url": "https://taskmanager.com",
-      "github": "https://github.com"
-    },
-    {
-      "name": "E-commerce Site",
-      "isActive": false,
-      "description": "An online store built with Next.js and Stripe for payment processing.",
-      "highlights": [
-        "Product management and shopping cart functionality",
-        "Secure payment integration"
-      ],
-      "url": "https://ecommerce.com"
     }
   ]
 }
