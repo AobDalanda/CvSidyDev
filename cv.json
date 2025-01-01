@@ -297,7 +297,7 @@
       "url": " ",
       "startDate": "2010-03-01",
       "endDate": "2008-02-25",
-      "summary": "Développer, coordonner et superviser les services à valeur ajoutée (VAS) pour assurer leur croissance et leur rentabilité.Identifier les opportunités de marché, gérer les partenariats et garantir la satisfaction des utilisateurs tout en optimisant les ressources disponibles.",
+      "summary": "Développer, coordonner et superviser les services à valeur ajoutée (VAS) pour assurer leur croissance et leur rentabilité tout en optimisant les ressources techniques disponibles.",
       "responsibilities": [
         "Elaboration de la faisabilité des différents VAS",
         "Développement, suivi et maintenance des VAS",
@@ -306,14 +306,12 @@
         "Développement d’application web pour la gestion des abonnés prépayés (comptes, plaintes, stats ...)"
       ],
       "achievements": [
-        "Développement d’applications Android robustes et performantes pour la production de documents biométriques sécurisés.",
-        "Applications conformes aux normes de sécurité biométrique et adaptées aux besoins de production d’identités sécurisées (enrôlement, identification, production de documents).",
-        "Applications respectant les normes biométriques et les spécifications des technologies d’identification (empreintes digitales)",
-        "Assurer la conformité avec les standards internationaux en matière de documents biométriques.",
-        "Optimisation des processus d’enrôlement, d’identification et de production de documents biométriques.",
-        "Applications intégrées avec des bases de données sécurisées et des systèmes de gestion d’identité.",
-        "Participation à la mise en œuvre de mécanismes de vérification pour garantir la qualité et la performance de l'application.",
-        "Documentation complète et claire des spécifications techniques, des guides utilisateurs et des procédures de déploiement."
+        "Mise en place d'applications web pour le suivi et l'analyse des plaintes clients.",
+        "Mise en place d'outils de suivis de l'évolution (Stats, rapport) des VAS pour les commerciaux",
+        "Developpement d'application android pour l'identification des clients (IDPicker)",
+        "Developpement d'interface web pour l'activation immediate des nouvelles puces clients)",
+        "Elaboration des KPI de suivis des activations (puces) "
+
       ],
       "skills": [
         "PHP",
