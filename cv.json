@@ -485,15 +485,15 @@
       ]
     },
     {
-      "name": "TypeScript",
+      "name": "BootStrap",
       "level": "Intermediate",
       "keywords": [
         "Web Development",
         "Frontend",
-        "Backend",
-        "JavaScript Superset"
+        "CSS Framework",
+        "Responsive Design"
       ]
-    },
+    } ,
     {
       "name": "Node",
       "level": "Intermediate",
@@ -531,6 +531,24 @@
         "Collaboration",
         "Source Code",
         "Git"
+      ]
+    },
+    {
+      "name": "Symfony",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "BackEnd",
+        "Framework"
+      ]
+    },
+    {
+      "name": "Docker",
+      "level": "beginner",
+      "keywords": [
+        "Containers",
+        "System",
+        "Open source"
       ]
     }
   ],
