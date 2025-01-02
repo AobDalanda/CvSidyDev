@@ -415,6 +415,16 @@
       ]
     } ,
     {
+      "institution": "Formation Continue ETI",
+      "url": "https://eti.net.gn/",
+      "area": "Software Engineering",
+      "startDate": "2008-10-06",
+      "endDate": "2008-10-17",
+      "courses": [
+        "SQL, PL/SQL et i SQL*PLUS (Oracle10G ) Administration de bases de données Oracle niveau 1"
+      ]
+    } ,
+    {
       "institution": "Université Kofi Annan - Guinée",
       "url": "https://ukaguinee.org/",
       "area": "Software Engineering",
