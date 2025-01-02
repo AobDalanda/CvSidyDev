@@ -376,7 +376,7 @@
     {
       "institution": "ENI ECOLE",
       "url": "https://www.eni-ecole.fr/ecole/campus-physiques/campus-de-rennes/",
-      "area": "Software Engineering",
+      "area":[ "Concepteur Développeur D'Applications Informatique"],
       "studyType": "Bachelor",
       "startDate": "2021-01-04",
       "endDate": "2021-10-24",
@@ -387,7 +387,7 @@
     {
       "institution": "Formation Continue PLB",
       "url": "https://www.plb.fr/",
-      "area": "Software Engineering",
+      "area": "Phone Gap et JQuery Mobile",
       "startDate": "2014-11-03",
       "endDate": "2014-11-14",
       "courses": [
@@ -397,7 +397,7 @@
     {
       "institution": "Formation Continue PLB",
       "url": "https://www.plb.fr/",
-      "area": "Software Engineering",
+      "area": "Développement Java/Android",
       "startDate": "2013-03-04",
       "endDate": "2013-03-28",
       "courses": [
@@ -407,7 +407,7 @@
     {
       "institution": "Formation Continue Dawan",
       "url": "https://www.dawan.fr/",
-      "area": "Software Engineering",
+      "area": "PHP avancé - Programmation Orientée objet - PDF-Ajax",
       "startDate": "2011-02-07",
       "endDate": "2011-02-18",
       "courses": [
@@ -417,7 +417,7 @@
     {
       "institution": "Formation Continue ETI",
       "url": "https://eti.net.gn/",
-      "area": "Software Engineering",
+      "area": "SQL, PL/SQL et i SQL*PLUS (Oracle10G ) Administration de bases de données Oracle niveau 1",
       "startDate": "2008-10-06",
       "endDate": "2008-10-17",
       "courses": [
@@ -427,7 +427,7 @@
     {
       "institution": "Université Kofi Annan - Guinée",
       "url": "https://ukaguinee.org/",
-      "area": "Software Engineering",
+      "area": "Méthodes Informatiques Appliquées à la Gestion de l'entreprise",
       "studyType": "Master",
       "startDate": "2003-09-01",
       "endDate": "2008-07-24",
@@ -437,12 +437,7 @@
     }
   ],
   "certificates": [
-    {
-      "name": "Full Stack Web Development",
-      "date": "2023-05-01",
-      "issuer": "Online University",
-      "url": "https://onlineuniversity.com/certificates/fullstack"
-    }
+
   ],
   "skills": [
     {
