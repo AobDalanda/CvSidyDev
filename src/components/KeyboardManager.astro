@@ -74,6 +74,18 @@ const profilesInfo = profiles.map(({ network, url }) => {
 <div id="hotkeypad" data-placeholder="Search Command" data-info={JSON.stringify(profilesInfo)}></div>
 
 <script>
+
+         var _paq = window._paq = window._paq || [];
+          _paq.push(['trackPageView']);
+          _paq.push(['enableLinkTracking']);
+          (function() {
+
+              _paq.push(['setTrackerUrl', 'https://www.sbarry.free.nf/matomo.php']);
+              _paq.push(['setSiteId', '2']);
+              var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+              g.async=true; g.src='https://www.sbarry.free.nf/matomo.js'; s.parentNode.insertBefore(g,s);
+          })();
+
 	interface Info {
 		id: string;
 		section: string;
